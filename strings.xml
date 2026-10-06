@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Angry Bot</string>
+    <string name="accessibility_label">Angry Bot Gesture Service</string>
+    <string name="accessibility_description">Performs drag gestures on screen for the game bot and shows a small control panel.</string>
+</resources>

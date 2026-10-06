@@ -1,0 +1,5 @@
+# Copy this file to local.properties (it is git-ignored) and fill in your key.
+# Never put the key in source code and never commit it.
+gemini.api.key=PASTE_YOUR_KEY_HERE
+# Any Gemini model that accepts image input; change this to use a stronger one, no code change needed.
+gemini.model=gemini-2.5-pro
